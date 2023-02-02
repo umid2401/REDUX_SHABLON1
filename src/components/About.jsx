@@ -7,7 +7,10 @@ export default function About() {
     <div>
         {products.length&&products.map((item,index)=>(
             <p key={index}>{item.email}</p>
+            
+            
         ))}
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia incidunt dicta eaque non ab ad inventore magni architecto quidem rerum.</p>
     </div>
   )
 }
