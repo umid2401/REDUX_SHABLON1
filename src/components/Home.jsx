@@ -26,6 +26,8 @@ export default function Home() {
            {products.length&&products.map((item,index)=>(
             <div key={index}>
                 <img src={item.avatar} alt="" />
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima molestiae hic, nisi omnis laudantium architecto iste asperiores impedit explicabo consequatur.</p>
+                <p></p>
             </div>
            ))
            }
