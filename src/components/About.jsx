@@ -10,6 +10,7 @@ export default function About() {
             
             
         ))}
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam, numquam.</p>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia incidunt dicta eaque non ab ad inventore magni architecto quidem rerum.</p>
     </div>
   )
